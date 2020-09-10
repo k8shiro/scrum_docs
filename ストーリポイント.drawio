@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T15:54:12.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.6.9" etag="K7laYg4_0zeVKMmL3dGJ" type="github"><diagram id="xa2Aw4sPUJu9sjytuaGl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-10T16:07:18.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="uVd4iFX5Mr66EYwop2TS" version="13.6.9" type="github">
+  <diagram id="xa2Aw4sPUJu9sjytuaGl" name="Page-1">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hpe5aLGeqqkFSwQempag-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="140" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-1" value="Story" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="215" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-4" value="Story" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="235" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-5" value="Story" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="255" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-7" value="Story" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="195" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-10" value="カイゼン" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="275" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="208" y="195" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-13" value="ベロシティ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="258" y="230" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-32" y="275" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-15" value="20%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-77" y="277.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="140" width="170" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-17" value="Story" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="215" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-18" value="Story" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="235" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-19" value="Story" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="195" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-21" value="Story" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="390" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-22" value="Story" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="410" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-23" value="Story" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="450" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-24" value="Story" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="470" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="611" y="197.5" width="50" height="232.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-26" value="総ポイント&lt;br style=&quot;font-size: 15px;&quot;&gt;　　= ベロシティ×0.8×リリースまでのスプリントの回数" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="277.5" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="436" width="340" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-28" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="390" y="362.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-29" value="リリース予定のStory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="208" y="390" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;fontSize=17;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hpe5aLGeqqkFSwQempag-21" target="Hpe5aLGeqqkFSwQempag-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="491" y="347.5" as="sourcePoint" />
+            <mxPoint x="541" y="297.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;fontSize=17;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hpe5aLGeqqkFSwQempag-16" target="Hpe5aLGeqqkFSwQempag-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="526" y="400" as="sourcePoint" />
+            <mxPoint x="526" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-34" value="プロダクトバックログ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="436" y="155" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5aLGeqqkFSwQempag-35" value="プスプリントバックログ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="28" y="155" width="170" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
